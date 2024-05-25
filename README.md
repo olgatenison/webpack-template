@@ -27,6 +27,12 @@ webpack-template/
 ├── package.json          # NPM configuration
 ├── webpack.config.js     # Webpack configuration
 ```
+<h2>Commands</h2>
+<ul>
+    <li><code>npm run dev</code> - build for development</li>
+    <li><code>npm build-prod</code> - build for production</li>
+    <li><code>npm start</code> - watch files and open in browser</li>
+</ul>
 
 ## Installation and Usage
 
